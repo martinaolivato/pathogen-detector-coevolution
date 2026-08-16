@@ -25,12 +25,9 @@ The original notebook is preserved in `notebooks/Pathogen_Framework.ipynb`.
 ├── pathogen_framework.py
 ├── notebooks/
 │   └── Pathogen_Framework.ipynb
-├── data/
-│   └── README.md
-├── results/
-│   ├── simulation_results.csv
-    └── figures/
-        └── sample_run.png
+├── simulation_results.csv
+├── PathogenProtein.png
+├── PathogenFitness.png
 ```
 
 No external biological dataset is required. Pathogens and detectors are generated
