@@ -22,18 +22,15 @@ The original notebook is preserved in `notebooks/Pathogen_Framework.ipynb`.
 ```text
 .
 ├── README.md
-├── requirements.txt
-├── src/
-│   └── pathogen_framework.py
+├── pathogen_framework.py
 ├── notebooks/
 │   └── Pathogen_Framework.ipynb
 ├── data/
 │   └── README.md
 ├── results/
-│   ├── sample_simulation_results.csv
-│   └── sample_run.txt
-└── figures/
-    └── sample_run.png
+│   ├── simulation_results.csv
+    └── figures/
+        └── sample_run.png
 ```
 
 No external biological dataset is required. Pathogens and detectors are generated
