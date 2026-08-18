@@ -23,8 +23,7 @@ The original notebook is preserved in `notebooks/Pathogen_Framework.ipynb`.
 .
 ├── README.md
 ├── pathogen_framework.py
-├── notebooks/
-│   └── Pathogen_Framework.ipynb
+├── Pathogen_Framework.ipynb
 ├── simulation_results.csv
 ├── PathogenProtein.png
 ├── PathogenFitness.png
